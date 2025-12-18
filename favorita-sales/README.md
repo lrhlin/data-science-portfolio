@@ -9,12 +9,14 @@ rather than to optimize short-term prediction accuracy.
 
 
 ## Data
+This project uses data from the Kaggle Favorita Store Sales Forecasting competition.
+Due to data licensing restrictions, the raw CSV files are not included in this repository.
+
 - Daily sales data by store and product family
 - Transaction, promotion, and holiday indicators
 - Store location and regional metadata
-- External macroeconomic indicators
-- Scale: hundreds of thousands of observations
-
+- External macroeconomic indicators (e.g., oil prices)
+- Scale: ~28,000 daily store–product observations
 
 ## Methods
 To triangulate robust sales drivers, I use a combination of:
