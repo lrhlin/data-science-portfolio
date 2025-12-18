@@ -7,6 +7,8 @@ in residential nursing homes in Japan.
 Staffing regulations are a major policy tool in long-term care systems, yet evidence on their relationship
 with quality—especially outside the U.S.—remains limited.
 
+The manuscript is currently under review and is not publicly shared.
+
 
 ## Data
 - National survey data collected in multiple waves
