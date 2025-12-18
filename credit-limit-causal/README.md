@@ -7,7 +7,6 @@ higher limits may increase risky borrowing or provide liquidity buffers that red
 
 Using observational administrative data, I estimate the causal effect of higher credit limits on next-month default risk.
 
----
 
 ## Data
 - Administrative credit card data with borrower demographics, account characteristics, and repayment outcomes
@@ -15,7 +14,6 @@ Using observational administrative data, I estimate the causal effect of higher 
 - Treatment: assignment to a high credit limit regime
 - Key challenge: credit limits are endogenously assigned based on borrower risk
 
----
 
 ## Methods
 To address selection bias in observational data, I use multiple causal inference approaches:
@@ -25,14 +23,12 @@ To address selection bias in observational data, I use multiple causal inference
 
 I explicitly define the target estimand and conduct balance checks and robustness analyses across specifications.
 
----
 
 ## Key Findings
 - Higher credit limits reduce short-term default risk on average
 - Results are robust across matching, IPW, and doubly robust estimators
 - Evidence suggests the effect operates through liquidity buffers rather than increased spending risk
 
----
 
 ## Notes
 - This repository contains analysis code and supporting materials
